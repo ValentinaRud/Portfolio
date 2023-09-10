@@ -10,3 +10,5 @@
 - seaborn,
 - scipy,
 - plotly
+## Дашборд, отражающий количество покупок по дням в строительном магазине
+https://public.tableau.com/app/profile/valentina.r1758/viz/Dashbord_11_05_2023/Dashboard1
