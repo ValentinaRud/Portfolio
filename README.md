@@ -8,3 +8,4 @@
 
 Примеры выполненных дашбордов:
 1. [Взаимодействие пользователей с карточками статей (Яндекс Дзен)](https://public.tableau.com/app/profile/valentina.r1758/viz/_16820558266530/Dashboard1)
+2. [Количество покупок по дням в строительном магазине](https://public.tableau.com/app/profile/valentina.r1758/viz/Dashbord_11_05_2023/Dashboard1) 
